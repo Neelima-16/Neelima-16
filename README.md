@@ -127,7 +127,6 @@ const neelima = {
 | 5 | [codealpha_tasks](https://github.com/Neelima-16/codealpha_tasks) | — | `Python` | 0 |
 | 6 | [NLP-Journey](https://github.com/Neelima-16/NLP-Journey) | My complete NLP learning journey (Day 1–Day 80) | `—` | 0 |
 | 7 | [To-Do-List-](https://github.com/Neelima-16/To-Do-List-) | This is a gamified to-do list web app built with MERN stack .It turns task completion into plant growth — users earn Growth Points (GP) to evolve their virtual plants. Features include streak tracking, achievements, reminders, task categories, and a garden-themed UI with day/night modes and focus mode for better productivity. | `JavaScript` | 0 |
-| 8 | [Neelima-16.github.io](https://github.com/Neelima-16/Neelima-16.github.io) | portfolio website | `CSS` | 0 |
 <!-- PROJECTS:END -->
 
 ---
